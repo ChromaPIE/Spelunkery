@@ -58,9 +58,9 @@
   "tooltip.spelunkery.obsidian_hammer_and_chisel": "挖掘等级：钻石",
   "tooltip.spelunkery.flint_hammer_and_chisel": "挖掘等级：石头",
 
-  "tooltip.spelunkery.hammer_and_chisel_1": "  对方块使用可将其精准凿落",
-  "tooltip.spelunkery.hammer_and_chisel_2": "  仅对挖掘等级相吻合或更低的方块有效",
-  "tooltip.spelunkery.hammer_and_chisel_3": "  仅对适合用镐进行开采的方块有效",
+  "tooltip.spelunkery.hammer_and_chisel_1": "  对方块长按使用键蓄力后松开可将其凿落",
+  "tooltip.spelunkery.hammer_and_chisel_2": "  仅对镐所适用且挖掘等级相吻合或更低的方块有效",
+  "tooltip.spelunkery.hammer_and_chisel_3": "  开凿带有精准采集效果",
   "tooltip.spelunkery.hammer_and_chisel_4": "  按住%1$s并点按使用键可将砖类方块变为对应的錾制形式",
 
   "tooltip.spelunkery.nephrite_charm_1": "已存储%1$s/%2$s点经验",
